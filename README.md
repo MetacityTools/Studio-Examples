@@ -1,3 +1,3 @@
-# Studio Models Examples
+# Studio Project Examples
 
-Index of exmaple projects for Metacity Studio. Please commit project files only (no source files).
+Index of public example projects for Metacity Studio.
