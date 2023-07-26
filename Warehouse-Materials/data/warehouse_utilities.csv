@@ -1,0 +1,10 @@
+Element,Material,Diameter_mm,Weight_kg_per_m,Color,FireResistance,ElectricalConductivity,Manufacturer
+Water Pipes,PVC,100,2,White,B2,Poor,PipeMasters
+Water Pipes,Copper,15,0.8,Copper,A1,Excellent,CopperPipes Inc
+Water Pipes,Steel,50,4,Grey,A1,Fair,SteelStrong
+Air Ducts,Aluminium,500,1.5,Silver,A1,Poor,DuctCo
+Air Ducts,Galvanised Steel,500,4,Grey,A1,Poor,SteelStrong
+Air Ducts,Stainless Steel,500,3.5,Silver,A1,Poor,SteelStrong
+Electric Wires,Copper,2,0.03,Copper,A1,Excellent,WireTech
+Electric Wires,Aluminium,2,0.01,Silver,A1,Good,WireTech
+Electric Wires,Copper Clad Aluminium,2,0.02,Silver,A1,Good,WireTech

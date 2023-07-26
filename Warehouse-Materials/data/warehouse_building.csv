@@ -1,0 +1,12 @@
+Element,Material,Thickness_mm,Weight_kg_per_m2,Color,FireResistance,SoundInsulation_dB,Manufacturer
+Wall,Concrete,200,500,Grey,B1,50,Acme Corp
+Wall,Brick,150,750,Red,A2,45,BrickCo
+Wall,Gypsum Board,15,25,White,A2,30,GypsumSolutions
+Floor,Reinforced Concrete,300,750,Grey,A1,55,Acme Corp
+Floor,Wood,25,50,Brown,B2,20,TimberTech
+Floor,Tile,20,40,Various,A1,25,TileMasters
+Bearing Pole,Steel,500,7850,Metallic,A1,60,SteelStrong
+Bearing Pole,Concrete,400,2400,Grey,A1,55,Acme Corp
+Bearing Pole,Wood,300,600,Brown,B2,25,TimberTech
+Roof - Metal Rafters,Steel,150,7850,Metallic,A1,60,SteelStrong
+Roof - Corrugated Metal,Steel,1.2,7850,Metallic,A1,45,SteelStrong
